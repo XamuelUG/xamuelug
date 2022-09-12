@@ -1,10 +1,10 @@
 ### Hi there 👋
-Am Samuel Wekobosya - Kampala Uganda
-I love doing Javascript.
-Currently am maintaining my website, and looking for an opportunity to start of my career
-Contact me on - samweko@gmail.com
+Am Samuel Wekobosya - Kampala Uganda <br/>
+I love doing Javascript. <br/>
+Currently am maintaining my website - and looking for an opportunity to start of my career <br/>
+Contact me on - samweko@gmail.com <br/>
 
-<ThanksForVisitingMyGithubProfile action="HelpMeStarMyPinnedRepo" />
+ThanksForVisitingMyGithubProfile
 
 <!--
 **XamuelUG/xamuelug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
