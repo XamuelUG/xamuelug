@@ -1,7 +1,7 @@
 ### Hi there 👋
 Am Samuel ✨ Wekobosya ✨ - Kampala Uganda <br/>
 I love doing Javascript. <br/>
-Currently am maintaining my website - and 👯  looking for an opportunity to start off my career <br/>
+Currently am 👯 looking for an opportunity to start off my career <br/>
 💬 - samweko@gmail.com <br/>
 
 ThanksForVisitingMyGithubProfile
