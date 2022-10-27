@@ -1,6 +1,6 @@
 ### Hi there 👋
 Am Samuel ✨ Wekobosya ✨ - Kampala Uganda <br/>
-I love doing Javascript. <br/>
+Javascript is my thing. <br/>
 Currently am 👯 looking for an opportunity to start off my career <br/>
 💬 - samweko@gmail.com <br/>
 
