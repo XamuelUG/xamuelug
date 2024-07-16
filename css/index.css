@@ -1,0 +1,80 @@
+.header_main {
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.header_main > div:nth-child(1) {
+  font-size: 48px;
+  font-weight: 600;
+}
+
+.header_main > div:nth-child(2) {
+  display: flex;
+}
+.header_main > div:nth-child(2) > div {
+  font-size: 24px;
+  margin: 0px 25px;
+}
+
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 50vh;
+}
+
+#home_page_photo {
+  height: 320px;
+  width: 320px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+main > div:first-child {
+  margin-right: 48px;
+}
+
+main > div:nth-child(2) {
+  text-align: center;
+  margin-left: 48px;
+}
+
+main > div:nth-child(2) > div {
+  margin: 15px 0px;
+}
+main > div:nth-child(2) > div:nth-child(1) {
+  font-size: 21px;
+}
+main > div:nth-child(2) > div:nth-child(2) {
+  font-size: 48px;
+  font-weight: bold;
+}
+
+main > div:nth-child(2) > div:nth-child(3) {
+  font-size: 42px;
+}
+
+#download_cv {
+  background-color: inherit;
+  border-radius: 30px;
+  font-size: 17px;
+  border: 1px solid black;
+  padding: 20px 40px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+#contact_info {
+  background-color: black;
+  color: white;
+  font-size: 17px;
+  border-radius: 30px;
+  border: 1px solid black;
+  padding: 20px 40px;
+  margin-left: 5px;
+  cursor: pointer;
+}
+main > div:nth-child(2) > div:last-child i {
+  margin: 20px;
+}
